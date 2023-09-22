@@ -40,7 +40,7 @@ const io = new Server(server,{
 })
 
 
-db.connect(`mongodb+srv://${username}:${password}@cluster0.my8dlei.mongodb.net/tictac`)
+db.connect(``)
 
 
 
